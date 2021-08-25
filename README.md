@@ -26,6 +26,6 @@ Where this can be used:
 
 Thoth messenger
 
-A YouTube tutorial on how to Install and use this will be released soon!
+A Picture tutorial on how to Install and use this will be released soon!
 
 ```"Software is like sex: it's better when it's free."-Linus Torvalds```
