@@ -39,23 +39,7 @@ print("[+] Connected.")
 print("To set a password, create a text file named pw.txt and save you password there, make sure your password is an integer only!")
 # prompt the client for a name
 name = input("Enter your name: ")
-with open('pw.txt') as f:
-    lines = f.readlines()
-    x = lines[0]
-    x=int(x)
-    
-    
-Pw= int(input('Password:'))
-count = 0
-while count < 3:
-    if Pw == x:
-        
-        print('Logged in!')
-        break
-    else:
-        print('Try again, you have 3 attempts!')
-        
-        count += 1
+
 result = pyfiglet.figlet_format("Thoth messenger", font = "slant"  )
 print(result)         
 def listen_for_messages():
