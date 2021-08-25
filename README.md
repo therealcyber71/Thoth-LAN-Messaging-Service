@@ -3,7 +3,7 @@ Thoth is a simple, easy-to use LAN based, command line messaging service that he
 Here's a simple guide to get started:
 1. Run the server.py from your terminal in the folder.
 2. Then create a text file named pw, like this pw.txt
-3. In the text file type a password of your choice, make sure it's only integers though.
+3. In the text file type your LAN ip address
 4. Hit enter and in the second line enter the local networks ipv4 address, save and close the text file.
 5. Now run client.py in the terminal and enter your name, and then the password you had typed in the pw.txt file.
 6. Start typing after logging in.
