@@ -1,2 +1,1 @@
-12345       #this is just an example for a password make sure your password is an integer though.
 127.0.0.1   #this is for same device chatrooms which is quite useless, for external devices to connect, use the network(LAN) ip address.
