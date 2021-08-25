@@ -10,8 +10,9 @@ Here's a simple guide to get started:
 
 This is completely free and safe, since your messages are deleted once the terminal is closed and can be shared over the LAN only.
 Pull requests are closed for now, Issues can be opened any-time!
-For more info write to quantechlxxi.corp@gmail.com or add me on discord - cyber#7596.
-
+For more info write to quantechlxxi.corp@gmail.com or add me on Discord - cyber#7596.
+The server.py is to be run first and then the client.py
+The clinet.py file is to be run on other devices with the ip address in the pw.txt file set to the LAN ip address.
 The above given process is one time only, after doing so you can simply start the server and run the client.py file in your terminal.
 
 Where this can be used:
