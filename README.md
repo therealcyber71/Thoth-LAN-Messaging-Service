@@ -27,6 +27,6 @@ Where this can be used:
 Thoth messenger
 
 A Picture tutorial on how to Install and use this will be released soon!
-Join our discord support server! https://discord.gg/r5MMS4EGk9
+Join our discord support server! https://discord.gg/r5MMS4EGk9 .
 
 ```"Software is like sex: it's better when it's free."-Linus Torvalds```
