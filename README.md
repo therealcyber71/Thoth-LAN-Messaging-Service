@@ -19,7 +19,7 @@ Where this can be used:
 1. Offices where data safety and privacy is of imprtance.
 2. Schools for learning socket programming.
 3. Gaming, because why not(ingame chats).
-4. Hospitals
+4. Hospitals(when the message is received the user gets pinged)
 
 
 ![61VuN0Xdh4L](https://user-images.githubusercontent.com/72592470/130742904-b8a30f32-94f7-46ba-807c-b38787111318.jpg)
